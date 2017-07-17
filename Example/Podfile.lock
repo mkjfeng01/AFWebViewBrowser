@@ -1,0 +1,29 @@
+PODS:
+  - AFWebViewBrowser (0.1.0):
+    - DZNEmptyDataSet
+    - Masonry
+  - DZNEmptyDataSet (1.8.1)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - AFWebViewBrowser (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AFWebViewBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFWebViewBrowser: 3be1737ad9e5483462de86344470b1ef692ef5c8
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 7dc9621aa74dc4604770ee247a41f920df2f75da
+
+COCOAPODS: 1.1.1

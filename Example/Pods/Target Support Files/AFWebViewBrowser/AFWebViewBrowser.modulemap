@@ -1,0 +1,6 @@
+framework module AFWebViewBrowser {
+  umbrella header "AFWebViewBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
