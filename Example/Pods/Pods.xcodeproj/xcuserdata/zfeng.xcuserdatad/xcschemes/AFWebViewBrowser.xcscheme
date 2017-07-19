@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '25B4AFE5A50B2984CED273B6B32109AD'
+               BlueprintIdentifier = '993AB6B817C2A201BA2BAB4D16CC6EEF'
                BlueprintName = 'AFWebViewBrowser'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'AFWebViewBrowser.framework'>

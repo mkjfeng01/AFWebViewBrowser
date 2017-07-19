@@ -439,7 +439,7 @@
 }
 
 - (UIImage *)imageInBundleForImageName:(NSString *)imageName {
-    NSString *pathComponent = @"AFWebViewKit.bundle";
+    NSString *pathComponent = @"AFWebViewBrowser.bundle";
     NSString *bundlePath =[[[NSBundle bundleForClass:[self class]] resourcePath] stringByAppendingPathComponent:pathComponent];
     NSBundle *bundle = [NSBundle bundleWithPath:bundlePath];
     return ({

@@ -32,9 +32,11 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'AFWebViewBrowser/Classes/**/*'
 
-  s.resource_bundles = {
-    'AFWebViewBrowser' => ['AFWebViewBrowser/Assets/*.bundle']
-  }
+  s.resources = 'AFWebViewBrowser/Assets/*.bundle'
+
+  # s.resource_bundles = {
+  #   'AFWebViewBrowser' => ['AFWebViewBrowser/Assets/*.bundle']
+  # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

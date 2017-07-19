@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AFWebViewBrowser: 3be1737ad9e5483462de86344470b1ef692ef5c8
+  AFWebViewBrowser: ffd4668597bfaeba088050fe07ed02bc35b04f04
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
