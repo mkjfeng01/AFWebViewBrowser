@@ -1,5 +1,7 @@
 PODS:
+  - AFPopUpMenu (0.1.0)
   - AFWebViewBrowser (0.1.0):
+    - AFPopUpMenu
     - DZNEmptyDataSet
     - Masonry
   - DZNEmptyDataSet (1.8.1)
@@ -19,7 +21,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AFWebViewBrowser: ffd4668597bfaeba088050fe07ed02bc35b04f04
+  AFPopUpMenu: 828335a3ff5382801d5a81c03866aa818d691c9a
+  AFWebViewBrowser: 7844b1c6012432640cfa29ac6c200e1947caa072
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
