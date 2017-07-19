@@ -13,7 +13,6 @@
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 930856B7881674088BBC4D6F146DD110 /* UIApplication+StrictKeyWindow.m */; };
 		0A91298B7A33A09AEDB7CAFA45535B3C /* MASLayoutConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = DF6E10F54ADD7C6C6524FECD8CA9B29B /* MASLayoutConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0B8DBAB184BB7E8E1D9C5E3386A8DEDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
-		0CD0398E39C2544B736469B67C989B64 /* barbuttonicon_more.png in Sources */ = {isa = PBXBuildFile; fileRef = 06E4595E4EE008453CFBA736721FB406 /* barbuttonicon_more.png */; };
 		0FBA11426BA530A6213D63572415BD22 /* AFWebViewControllerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F57E6BF49010F237A0CD329A4B60840 /* AFWebViewControllerModel.m */; };
 		1291D8158BE192712E07FFF0CDDE81D4 /* Pods-AFWebViewBrowser_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3115800617CD0B6E0E54457935E77B5A /* Pods-AFWebViewBrowser_Tests-dummy.m */; };
 		12E53973948192F806C5DA74A6294DAB /* activitySafari-iPad.png in Sources */ = {isa = PBXBuildFile; fileRef = E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */; };
@@ -28,7 +27,6 @@
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 275D21D77117AB380078772849541418 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		32ADA4E3807CDF529CC04423922AEC44 /* activityChrome@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */; };
 		3338F86E1F32CB0794EAF934D123B673 /* UIScrollView+EmptyDataSet.m in Sources */ = {isa = PBXBuildFile; fileRef = F848A95B999EDAEB43D834C6866F96D7 /* UIScrollView+EmptyDataSet.m */; };
-		34EC02A9CB85AAAF5DFB8A96C1954525 /* barbuttonicon_more_black@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 03383C2C9103B5BE9102553C29681C20 /* barbuttonicon_more_black@2x.png */; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = A1319F21F9B072BFBCB6B0917BB771A6 /* UIImage+Diff.m */; };
 		389A720772907BA01A9FAC019687B345 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 60EB3C809CF12F37D97C938B406DC2DE /* View+MASAdditions.m */; };
 		3AE79DE29760A4E0B035EA243B48393C /* activityChrome-iPad.png in Sources */ = {isa = PBXBuildFile; fileRef = 385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */; };
@@ -62,7 +60,6 @@
 		84B925745AD6C941161D010D836282C5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
 		88F96927DBD996EA2CD9CD30092186CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
 		89A64862A9CD755D93BE29C481E33BD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
-		8A6E22351742D23A19856D21B86A5E9F /* barbuttonicon_more@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 2833ACD212ADB7D0769107A572E81964 /* barbuttonicon_more@2x.png */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E3E38ED958E21F9F6B6A8AF9E0EE7E3 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9F3769A49E5367D99427E63D825E1DBC /* AFWebViewBrowser-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 21680F9906072DBA46EA95827A3BCC8F /* AFWebViewBrowser-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A1358F1991BF0F7C34A8AEA1881529A4 /* toolBar_back@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */; };
@@ -149,21 +146,18 @@
 
 /* Begin PBXFileReference section */
 		027319810EE6D37B0F689F15B94F9444 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		03383C2C9103B5BE9102553C29681C20 /* barbuttonicon_more_black@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "barbuttonicon_more_black@2x.png"; sourceTree = "<group>"; };
 		0560CF673F28F01DD2E3FF4A45AD8FFC /* View+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASAdditions.h"; path = "Masonry/View+MASAdditions.h"; sourceTree = "<group>"; };
-		06E4595E4EE008453CFBA736721FB406 /* barbuttonicon_more.png */ = {isa = PBXFileReference; includeInIndex = 1; path = barbuttonicon_more.png; sourceTree = "<group>"; };
 		09B28363DF638DA8387F22056E53AF05 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		0A3BE0713EFFC1674F35729961FA0D4B /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
 		0E4A2B1BBAB2AA5D64C6F7AAF695C1FA /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
 		10680D71922D48D17070CE5777DD8E14 /* Pods-AFWebViewBrowser_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AFWebViewBrowser_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		128CFD141C2F99321B96C66817C0AE87 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		12A894F164D94E8EDE2C1192D7034AFC /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
-		1721D4601E5267BE58826F94937D20CB /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		1721D4601E5267BE58826F94937D20CB /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		1CC8DB7AF5AF8481DA95901E09B656DD /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
 		208A0BDB0CC7082210E81B38BF157C9F /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		21680F9906072DBA46EA95827A3BCC8F /* AFWebViewBrowser-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFWebViewBrowser-umbrella.h"; sourceTree = "<group>"; };
 		275D21D77117AB380078772849541418 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		2833ACD212ADB7D0769107A572E81964 /* barbuttonicon_more@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "barbuttonicon_more@2x.png"; sourceTree = "<group>"; };
 		2A59D960371D76D4DB733022EE45541C /* Masonry.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.xcconfig; sourceTree = "<group>"; };
 		2AB50B60AEC6B2A2BA3724D17DEF32E9 /* AFWebViewBrowser.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFWebViewBrowser.xcconfig; sourceTree = "<group>"; };
 		2CA4984B1D39F8F4ECDEF257413A0AAE /* Pods-AFWebViewBrowser_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AFWebViewBrowser_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -173,36 +167,36 @@
 		3115800617CD0B6E0E54457935E77B5A /* Pods-AFWebViewBrowser_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AFWebViewBrowser_Tests-dummy.m"; sourceTree = "<group>"; };
 		311958A1E758E72E76770CA9EDB353CB /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		33D6506CB4677A39E541BE4E02B7C0B1 /* Pods-AFWebViewBrowser_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AFWebViewBrowser_Tests-umbrella.h"; sourceTree = "<group>"; };
-		385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activityChrome-iPad.png"; sourceTree = "<group>"; };
+		385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome-iPad.png"; sourceTree = "<group>"; };
 		38A40C0FBE80603EED68E1BA3A7CFA51 /* Pods-AFWebViewBrowser_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AFWebViewBrowser_Example-dummy.m"; sourceTree = "<group>"; };
 		3AC4E7B15BD57F745AF833006BB162AF /* AFWebViewInteractiveHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewInteractiveHandler.h; sourceTree = "<group>"; };
 		3DDE11A913E6F0DE7A1344E70BE02F87 /* Pods-AFWebViewBrowser_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AFWebViewBrowser_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3E3E38ED958E21F9F6B6A8AF9E0EE7E3 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		3F06C62EEDC07EF50981015FAF7CF423 /* AFWebViewBrowser.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AFWebViewBrowser.modulemap; sourceTree = "<group>"; };
+		3F06C62EEDC07EF50981015FAF7CF423 /* AFWebViewBrowser.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AFWebViewBrowser.modulemap; sourceTree = "<group>"; };
 		405DC3CB02A11B9228257D60F64BCF23 /* Pods-AFWebViewBrowser_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AFWebViewBrowser_Example.release.xcconfig"; sourceTree = "<group>"; };
-		411C2211B4637712B6CBE3E37636BBF9 /* activityChrome-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activityChrome-iPad@2x.png"; sourceTree = "<group>"; };
+		411C2211B4637712B6CBE3E37636BBF9 /* activityChrome-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome-iPad@2x.png"; sourceTree = "<group>"; };
 		418C9B68C6B12278843AC0BF3B2394DD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41E84CF3CB21CF2D68B45C4A226BFF14 /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
-		41FDAE1D17370251F0117D7743134947 /* DZNEmptyDataSet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DZNEmptyDataSet.framework; path = DZNEmptyDataSet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		41FDAE1D17370251F0117D7743134947 /* DZNEmptyDataSet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZNEmptyDataSet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		442C629811FF12311B56EE4833D84957 /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		44C76F207BFB318A77F16F059BE6673D /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		4537C08D57C069242EAB8CDA0FB25A3C /* AFWebViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewController.m; sourceTree = "<group>"; };
 		47DE78F316D127BD83C073871B5135CF /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		48BB3A62731B201990E61EB2BE0DA44C /* AFWebViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewController.h; sourceTree = "<group>"; };
-		4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "backItemImage@2x.png"; sourceTree = "<group>"; };
+		4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "backItemImage@2x.png"; sourceTree = "<group>"; };
 		4FB3E71CC30EB63643BD6B6BB182FE75 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		51889D6F4809955A61BA7479584432AE /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		57BEE4E5E97DBC10CB7E17058FAD4FE4 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activitySafari@2x.png"; sourceTree = "<group>"; };
+		5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari@2x.png"; sourceTree = "<group>"; };
 		6026B670D980B358E98FD698D032C569 /* Pods-AFWebViewBrowser_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Tests-resources.sh"; sourceTree = "<group>"; };
 		60EB3C809CF12F37D97C938B406DC2DE /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		69656060B344361B0A56C41FA4BC7E32 /* MASUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASUtilities.h; path = Masonry/MASUtilities.h; sourceTree = "<group>"; };
 		6B8DF0F1792B318D3163E04CC89A0982 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
 		6C4901CB8043E582D9B132FAF72FBA00 /* Pods-AFWebViewBrowser_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Example-resources.sh"; sourceTree = "<group>"; };
-		6CE328DDBDC9AF2DE18FEC1C88AEEF3E /* Pods_AFWebViewBrowser_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AFWebViewBrowser_Example.framework; path = "Pods-AFWebViewBrowser_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CE328DDBDC9AF2DE18FEC1C88AEEF3E /* Pods_AFWebViewBrowser_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWebViewBrowser_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE687F3F39095912FBBC402BA2B7786 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FA13C7D623766740F62618E3D6217A7 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
-		73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "toolBar_back@2x.png"; sourceTree = "<group>"; };
+		73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "toolBar_back@2x.png"; sourceTree = "<group>"; };
 		748C8355E4747B38723F92703673407B /* Pods-AFWebViewBrowser_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Example-frameworks.sh"; sourceTree = "<group>"; };
 		75701E2D6B5F89F224AD11F3198F3D0C /* AFWebViewInteractiveHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewInteractiveHandler.m; sourceTree = "<group>"; };
 		79E12475FF224D207F8D2F0FE73BD0BE /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
@@ -213,27 +207,27 @@
 		846C2A58C910EC86E0E6DF179CC25505 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		84FA08582BC7D97A10F66E3F7651A49E /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		873B5980F06E40646DB123ED60E10977 /* MASConstraintMaker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraintMaker.m; path = Masonry/MASConstraintMaker.m; sourceTree = "<group>"; };
-		88059DE0212BC05205ED4B194440AC3E /* Pods-AFWebViewBrowser_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AFWebViewBrowser_Tests.modulemap"; sourceTree = "<group>"; };
+		88059DE0212BC05205ED4B194440AC3E /* Pods-AFWebViewBrowser_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AFWebViewBrowser_Tests.modulemap"; sourceTree = "<group>"; };
 		8E750A4307467621B817A24C597C5823 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		8F57E6BF49010F237A0CD329A4B60840 /* AFWebViewControllerModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewControllerModel.m; sourceTree = "<group>"; };
 		91166808975D82B7F49F861E06BB4261 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
-		92C198100C518034331B4502A5BD047E /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Masonry.modulemap; sourceTree = "<group>"; };
+		92C198100C518034331B4502A5BD047E /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Masonry.modulemap; sourceTree = "<group>"; };
 		930856B7881674088BBC4D6F146DD110 /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		99546A2DC7B871377F240546D2B3AE53 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		999A22763AC285CB04A223A484AAA723 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		9C8586A1D9DFFD0800F3AFDAC6BED518 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */ = {isa = PBXFileReference; includeInIndex = 1; path = toolBar_forward.png; sourceTree = "<group>"; };
+		9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = toolBar_forward.png; sourceTree = "<group>"; };
 		A0FA26C493F46482790D76FA3763F957 /* AFWebViewControllerModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewControllerModel.h; sourceTree = "<group>"; };
 		A1319F21F9B072BFBCB6B0917BB771A6 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		A281AA4FBAE162FA53C4978B2A85647A /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A281AA4FBAE162FA53C4978B2A85647A /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4394D78411DA897ACBE400C5DF46967 /* AFWebViewJavascriptBridge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewJavascriptBridge.m; sourceTree = "<group>"; };
-		A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "toolBar_forward@2x.png"; sourceTree = "<group>"; };
+		A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "toolBar_forward@2x.png"; sourceTree = "<group>"; };
 		A5BA355667E50B8DA1C941A7A3EC42B2 /* DZNEmptyDataSet.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DZNEmptyDataSet.xcconfig; sourceTree = "<group>"; };
 		A7F46BBA529D5056DAF5C26EA003D4EC /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
 		A997FE5913795A568F724FE93CFB7FBA /* UINavigationController+AFWebViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+AFWebViewController.m"; sourceTree = "<group>"; };
 		AA1F5AF36E7342A09C2F2671E88045AD /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		AB938E73B610C950CDF08F038AA9ABA6 /* AFWebViewBrowser.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AFWebViewBrowser.framework; path = AFWebViewBrowser.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB938E73B610C950CDF08F038AA9ABA6 /* AFWebViewBrowser.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFWebViewBrowser.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2179103EC71B95DABDAE077AF6A4392 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
 		B27A4C1AC931EB4EAD8AB07B6392807E /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
 		B44EBB84D75703D5A6A21AB8B2D7292A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -241,7 +235,7 @@
 		BC0FD0F019E3A991281B926D8F79FEEC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCAB0320091FA8B0A64B8F2D93A1F758 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
 		C1A2286562C714B4D38B17FDBE1878A3 /* Pods-AFWebViewBrowser_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AFWebViewBrowser_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C1C3624A386A746B37B5F5C23C4D756D /* Pods_AFWebViewBrowser_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AFWebViewBrowser_Tests.framework; path = "Pods-AFWebViewBrowser_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1C3624A386A746B37B5F5C23C4D756D /* Pods_AFWebViewBrowser_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWebViewBrowser_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C57B24ACFF75E4455F779F09BCDC5B83 /* AFWebViewBrowser-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFWebViewBrowser-dummy.m"; sourceTree = "<group>"; };
 		C6DAA3C5833A9B1845CB97DB6785C166 /* UINavigationController+AFWebViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+AFWebViewController.h"; sourceTree = "<group>"; };
 		CCD3C33E7F9EB30FFDCEB44A5E6D988D /* Pods-AFWebViewBrowser_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AFWebViewBrowser_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -249,23 +243,23 @@
 		D211C20B8D12306B0BE39A6AA61D72CA /* DZNEmptyDataSet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZNEmptyDataSet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2CD98B710915AB6E30843A0BDD4A1D0 /* Pods-AFWebViewBrowser_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		D442014DD7ED72F21287952C9C3C4A84 /* DZNEmptyDataSet-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DZNEmptyDataSet-umbrella.h"; sourceTree = "<group>"; };
-		D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activityChrome@2x.png"; sourceTree = "<group>"; };
+		D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome@2x.png"; sourceTree = "<group>"; };
 		D97FB86A9876B439BE46CD2EC47D6AE8 /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
-		DB2AD60EBF6499F84DD9FEC1A11DA742 /* activitySafari-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activitySafari-iPad@2x.png"; sourceTree = "<group>"; };
+		DB2AD60EBF6499F84DD9FEC1A11DA742 /* activitySafari-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari-iPad@2x.png"; sourceTree = "<group>"; };
 		DC2BE5F2C71231E69EB8C4071A495821 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		DCFD136584DC4E7291FB559F24E9AAE4 /* AFWebViewJavascriptBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewJavascriptBridge.h; sourceTree = "<group>"; };
 		DD5FA85A1C547CDB6F0FA929C26A5B47 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		DDC9989F3A5315ED299F486BAD685059 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		DE428F9DD2DC3B5D424565AAE9116FFF /* Pods-AFWebViewBrowser_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AFWebViewBrowser_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DF6E10F54ADD7C6C6524FECD8CA9B29B /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
-		E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "activitySafari-iPad.png"; sourceTree = "<group>"; };
-		E29538C43BE4A92AD5BBF0913F43E037 /* DZNEmptyDataSet.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DZNEmptyDataSet.modulemap; sourceTree = "<group>"; };
-		E771778106840D3CD4703F1C320DF678 /* Pods-AFWebViewBrowser_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-AFWebViewBrowser_Example.modulemap"; sourceTree = "<group>"; };
-		E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "backItemImage_hl@2x.png"; sourceTree = "<group>"; };
+		E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari-iPad.png"; sourceTree = "<group>"; };
+		E29538C43BE4A92AD5BBF0913F43E037 /* DZNEmptyDataSet.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DZNEmptyDataSet.modulemap; sourceTree = "<group>"; };
+		E771778106840D3CD4703F1C320DF678 /* Pods-AFWebViewBrowser_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AFWebViewBrowser_Example.modulemap"; sourceTree = "<group>"; };
+		E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "backItemImage_hl@2x.png"; sourceTree = "<group>"; };
 		E9C76EF8B21FB4C57981CAE6C2122C3C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EAA5D512AEB51C802E7845E4E223BAC0 /* AFWebViewBrowser-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFWebViewBrowser-prefix.pch"; sourceTree = "<group>"; };
-		EBE3C8C865BD8DC8833E4ED5501873EE /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */ = {isa = PBXFileReference; includeInIndex = 1; path = toolBar_back.png; sourceTree = "<group>"; };
+		EBE3C8C865BD8DC8833E4ED5501873EE /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = toolBar_back.png; sourceTree = "<group>"; };
 		EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		F3B99FBDC91C84BE8969BC93C101F2A4 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7EFEB5F82AC629494336922C3EFC28D /* Pods-AFWebViewBrowser_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AFWebViewBrowser_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -366,15 +360,11 @@
 				5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */,
 				4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */,
 				E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */,
-				06E4595E4EE008453CFBA736721FB406 /* barbuttonicon_more.png */,
-				2833ACD212ADB7D0769107A572E81964 /* barbuttonicon_more@2x.png */,
-				03383C2C9103B5BE9102553C29681C20 /* barbuttonicon_more_black@2x.png */,
 				EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */,
 				73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */,
 				9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */,
 				A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */,
 			);
-			name = AFWebViewBrowser.bundle;
 			path = AFWebViewBrowser.bundle;
 			sourceTree = "<group>";
 		};
@@ -427,7 +417,6 @@
 				A997FE5913795A568F724FE93CFB7FBA /* UINavigationController+AFWebViewController.m */,
 				2D1A2B1D5D3DB07AADFBF75FB624CD03 /* AFWebViewBrowser.bundle */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -472,7 +461,6 @@
 			children = (
 				700B472DE0C0E6D398D3430704068E54 /* Classes */,
 			);
-			name = AFWebViewBrowser;
 			path = AFWebViewBrowser;
 			sourceTree = "<group>";
 		};
@@ -520,7 +508,6 @@
 				CD88F21EF885FA8B0B760410043F3372 /* ViewController+MASAdditions.m */,
 				C8DE22BA68380CB7D58D01D2F02C3B75 /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -552,7 +539,6 @@
 				600AC12557C34D37906FDFE094C81D22 /* Support Files */,
 				DB26AF018A030D47D70B25EB2C23BC0C /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -563,7 +549,6 @@
 				F848A95B999EDAEB43D834C6866F96D7 /* UIScrollView+EmptyDataSet.m */,
 				A8AE4E4611006A2A54B2D37F6F65B10F /* Support Files */,
 			);
-			name = DZNEmptyDataSet;
 			path = DZNEmptyDataSet;
 			sourceTree = "<group>";
 		};
@@ -945,9 +930,6 @@
 				1BFDFC22433284C03AB73F0FF124EDBB /* AFWebViewJavascriptBridge.m in Sources */,
 				DF31C8B80718488E1E38EC21E6EDF14B /* backItemImage@2x.png in Sources */,
 				6A191F784CA7D11154718DD6B8C613C3 /* backItemImage_hl@2x.png in Sources */,
-				0CD0398E39C2544B736469B67C989B64 /* barbuttonicon_more.png in Sources */,
-				8A6E22351742D23A19856D21B86A5E9F /* barbuttonicon_more@2x.png in Sources */,
-				34EC02A9CB85AAAF5DFB8A96C1954525 /* barbuttonicon_more_black@2x.png in Sources */,
 				494F5FDA8C2D9E683410A551F00A5AD3 /* toolBar_back.png in Sources */,
 				A1358F1991BF0F7C34A8AEA1881529A4 /* toolBar_back@2x.png in Sources */,
 				B8CD107FD8BDCEC3CCD66E5DF1497A66 /* toolBar_forward.png in Sources */,
