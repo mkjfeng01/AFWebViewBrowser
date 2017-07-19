@@ -9,10 +9,10 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![k4AaV.png](http://storage1.imgchr.com/k4AaV.png)
-![k4E5T.png](http://storage1.imgchr.com/k4E5T.png)
-![k4ZPU.png](http://storage1.imgchr.com/k4ZPU.png)
-![k4eGF.png](http://storage1.imgchr.com/k4eGF.png)
+[![k4AaV.md.png](http://storage1.imgchr.com/k4AaV.md.png)](https://imgchr.com/i/k4AaV)
+[![k4E5T.md.png](http://storage1.imgchr.com/k4E5T.md.png)](https://imgchr.com/i/k4E5T)
+[![k4ZPU.md.png](http://storage1.imgchr.com/k4ZPU.md.png)](https://imgchr.com/i/k4ZPU)
+[![k4eGF.md.png](http://storage1.imgchr.com/k4eGF.md.png)](https://imgchr.com/i/k4eGF)
 
 ## Requirements
 
