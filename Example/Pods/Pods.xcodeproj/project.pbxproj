@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		047366DF9B7CBD9EC264AD4159F0C960 /* activitySafari-iPad@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = DB2AD60EBF6499F84DD9FEC1A11DA742 /* activitySafari-iPad@2x.png */; };
 		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 311958A1E758E72E76770CA9EDB353CB /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		07E908BDBD66FEC450A328D3BF01125E /* AFWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4537C08D57C069242EAB8CDA0FB25A3C /* AFWebViewController.m */; };
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 930856B7881674088BBC4D6F146DD110 /* UIApplication+StrictKeyWindow.m */; };
@@ -15,27 +14,22 @@
 		0B8DBAB184BB7E8E1D9C5E3386A8DEDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
 		0FBA11426BA530A6213D63572415BD22 /* AFWebViewControllerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F57E6BF49010F237A0CD329A4B60840 /* AFWebViewControllerModel.m */; };
 		1291D8158BE192712E07FFF0CDDE81D4 /* Pods-AFWebViewBrowser_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3115800617CD0B6E0E54457935E77B5A /* Pods-AFWebViewBrowser_Tests-dummy.m */; };
-		12E53973948192F806C5DA74A6294DAB /* activitySafari-iPad.png in Sources */ = {isa = PBXBuildFile; fileRef = E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */; };
 		1A7E017B36F98089DFF54C5120341DEB /* AFWebViewBrowser-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C57B24ACFF75E4455F779F09BCDC5B83 /* AFWebViewBrowser-dummy.m */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E12475FF224D207F8D2F0FE73BD0BE /* SwiftSupport.swift */; };
-		1AF24225CBEA78A29479BB6709BFB2FE /* toolBar_forward@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */; };
 		1BFDFC22433284C03AB73F0FF124EDBB /* AFWebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = A4394D78411DA897ACBE400C5DF46967 /* AFWebViewJavascriptBridge.m */; };
 		1DA669F847BE23151CC1CA9985EBB062 /* MASViewConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 208A0BDB0CC7082210E81B38BF157C9F /* MASViewConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2870DE734A4204C321B05A5A7D41A2C7 /* Pods-AFWebViewBrowser_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CCD3C33E7F9EB30FFDCEB44A5E6D988D /* Pods-AFWebViewBrowser_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2BA4C429D97B56EA023DEA967BC8C71C /* ViewController+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = DC2BE5F2C71231E69EB8C4071A495821 /* ViewController+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2BE31D23FA3CF916C8173634E533D2B7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92EED15544D399E1C65FA1F53AEE8AA /* UIKit.framework */; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 275D21D77117AB380078772849541418 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32ADA4E3807CDF529CC04423922AEC44 /* activityChrome@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */; };
 		3338F86E1F32CB0794EAF934D123B673 /* UIScrollView+EmptyDataSet.m in Sources */ = {isa = PBXBuildFile; fileRef = F848A95B999EDAEB43D834C6866F96D7 /* UIScrollView+EmptyDataSet.m */; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = A1319F21F9B072BFBCB6B0917BB771A6 /* UIImage+Diff.m */; };
 		389A720772907BA01A9FAC019687B345 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 60EB3C809CF12F37D97C938B406DC2DE /* View+MASAdditions.m */; };
-		3AE79DE29760A4E0B035EA243B48393C /* activityChrome-iPad.png in Sources */ = {isa = PBXBuildFile; fileRef = 385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */; };
 		3B83A2F08BC090A6FD3EBA869E1BD39D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 027319810EE6D37B0F689F15B94F9444 /* QuartzCore.framework */; };
 		41220489BFA45F8610EC8748FE7F88B4 /* UINavigationController+AFWebViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C6DAA3C5833A9B1845CB97DB6785C166 /* UINavigationController+AFWebViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 999A22763AC285CB04A223A484AAA723 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		42592E2256FD155EDBE2C571D246510F /* AFWebViewInteractiveHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AC4E7B15BD57F745AF833006BB162AF /* AFWebViewInteractiveHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		46DAE8168CCC22CAA1C425F1536A863C /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 41E84CF3CB21CF2D68B45C4A226BFF14 /* MASViewAttribute.m */; };
-		494F5FDA8C2D9E683410A551F00A5AD3 /* toolBar_back.png in Sources */ = {isa = PBXBuildFile; fileRef = EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */; };
 		4CEB72772F5C8E16DD27D55DD3BF4A94 /* Masonry-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E4A2B1BBAB2AA5D64C6F7AAF695C1FA /* Masonry-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4E8F5CB8A7B7E771D518691812560426 /* DZNEmptyDataSet-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CD3399D9C9B7CA411C03D1452C0E698 /* DZNEmptyDataSet-dummy.m */; };
 		50040456C2BCA6D252E2E30CFEC371A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
@@ -43,11 +37,9 @@
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 91166808975D82B7F49F861E06BB4261 /* FBSnapshotTestCase-dummy.m */; };
 		511DA14BDD780E50C0B28F547037CB95 /* DZNEmptyDataSet.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D211C20B8D12306B0BE39A6AA61D72CA /* DZNEmptyDataSet.framework */; };
 		618C12160393657FCA7E3C9AB3E4C947 /* Pods-AFWebViewBrowser_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 33D6506CB4677A39E541BE4E02B7C0B1 /* Pods-AFWebViewBrowser_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		61E03FBEC40473DBADF0B3F55F00C7EE /* activityChrome-iPad@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 411C2211B4637712B6CBE3E37636BBF9 /* activityChrome-iPad@2x.png */; };
 		640776F175B648FBC2E43C16ECF3F39B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92EED15544D399E1C65FA1F53AEE8AA /* UIKit.framework */; };
 		66E502795087275F45D16ED541218C3D /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A3BE0713EFFC1674F35729961FA0D4B /* NSArray+MASAdditions.m */; };
 		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = B829BB2208ED987275342D18525F576E /* UIImage+Compare.m */; };
-		6A191F784CA7D11154718DD6B8C613C3 /* backItemImage_hl@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */; };
 		6B93A2C59EF02B6DB9736CFCEB55BAF6 /* NSArray+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 99546A2DC7B871377F240546D2B3AE53 /* NSArray+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6C7D9CBABD58F1E0B9CFF1C7B91726F9 /* View+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 57BEE4E5E97DBC10CB7E17058FAD4FE4 /* View+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EDB0B009FDD5619A9E597EA3E638834 /* Masonry.h in Headers */ = {isa = PBXBuildFile; fileRef = 846C2A58C910EC86E0E6DF179CC25505 /* Masonry.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -62,7 +54,6 @@
 		89A64862A9CD755D93BE29C481E33BD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E3E38ED958E21F9F6B6A8AF9E0EE7E3 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9F3769A49E5367D99427E63D825E1DBC /* AFWebViewBrowser-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 21680F9906072DBA46EA95827A3BCC8F /* AFWebViewBrowser-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A1358F1991BF0F7C34A8AEA1881529A4 /* toolBar_back@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */; };
 		A4171E74BD7BB23F557C8945416A98F7 /* MASViewAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = B27A4C1AC931EB4EAD8AB07B6392807E /* MASViewAttribute.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E750A4307467621B817A24C597C5823 /* FBSnapshotTestController.m */; };
 		A5E75D0CA5A647F4D9F2DA0EC9C69216 /* NSArray+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 82D0800E111B1149EC116C737D9810D7 /* NSArray+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -74,11 +65,9 @@
 		B43F836F2879ADF34D8D55F2BC828378 /* UIScrollView+EmptyDataSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 823D02C48583039A325192A0C16EAEF9 /* UIScrollView+EmptyDataSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B5CA2CA129E2AC39A714EB8BEBE960DC /* Masonry-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 442C629811FF12311B56EE4833D84957 /* Masonry-dummy.m */; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51889D6F4809955A61BA7479584432AE /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B8CD107FD8BDCEC3CCD66E5DF1497A66 /* toolBar_forward.png in Sources */ = {isa = PBXBuildFile; fileRef = 9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */; };
 		BA10655D079F737D99BDF8D85EE299F9 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = BCAB0320091FA8B0A64B8F2D93A1F758 /* MASCompositeConstraint.m */; };
 		BC61A9BAECBBEA6D595C85C49CD61259 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = FD609DF22250AFF88EE2E49A809E661E /* MASViewConstraint.m */; };
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 84FA08582BC7D97A10F66E3F7651A49E /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		BD816A78521DD3BB19CBD2415CDB2E3D /* activitySafari@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 47DE78F316D127BD83C073871B5135CF /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FA13C7D623766740F62618E3D6217A7 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C1116360D18F53FEBBF9323D4F0F7E09 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = DD5FA85A1C547CDB6F0FA929C26A5B47 /* NSLayoutConstraint+MASDebugAdditions.m */; };
@@ -90,7 +79,6 @@
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = DDC9989F3A5315ED299F486BAD685059 /* FBSnapshotTestCasePlatform.m */; };
 		DE3F65D8B8F577E0152DB4A26588E7C2 /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = D97FB86A9876B439BE46CD2EC47D6AE8 /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DF1E513F1E403A068E7E15203AE72F78 /* AFWebViewKitConstaints.h in Headers */ = {isa = PBXBuildFile; fileRef = FA7E558F7F83E5319259440570E60624 /* AFWebViewKitConstaints.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DF31C8B80718488E1E38EC21E6EDF14B /* backItemImage@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */; };
 		E6CF4B1240D3D0321B13B1F89B5A0EFC /* MASConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CC8DB7AF5AF8481DA95901E09B656DD /* MASConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ED46551B73B14BFA6D519485040D3339 /* Pods-AFWebViewBrowser_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 38A40C0FBE80603EED68E1BA3A7CFA51 /* Pods-AFWebViewBrowser_Example-dummy.m */; };
 		EF8CC8A6902E3D76D5B34B4DE8CED164 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CD88F21EF885FA8B0B760410043F3372 /* ViewController+MASAdditions.m */; };
@@ -167,14 +155,12 @@
 		3115800617CD0B6E0E54457935E77B5A /* Pods-AFWebViewBrowser_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AFWebViewBrowser_Tests-dummy.m"; sourceTree = "<group>"; };
 		311958A1E758E72E76770CA9EDB353CB /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		33D6506CB4677A39E541BE4E02B7C0B1 /* Pods-AFWebViewBrowser_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AFWebViewBrowser_Tests-umbrella.h"; sourceTree = "<group>"; };
-		385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome-iPad.png"; sourceTree = "<group>"; };
 		38A40C0FBE80603EED68E1BA3A7CFA51 /* Pods-AFWebViewBrowser_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AFWebViewBrowser_Example-dummy.m"; sourceTree = "<group>"; };
 		3AC4E7B15BD57F745AF833006BB162AF /* AFWebViewInteractiveHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewInteractiveHandler.h; sourceTree = "<group>"; };
 		3DDE11A913E6F0DE7A1344E70BE02F87 /* Pods-AFWebViewBrowser_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AFWebViewBrowser_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3E3E38ED958E21F9F6B6A8AF9E0EE7E3 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		3F06C62EEDC07EF50981015FAF7CF423 /* AFWebViewBrowser.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AFWebViewBrowser.modulemap; sourceTree = "<group>"; };
 		405DC3CB02A11B9228257D60F64BCF23 /* Pods-AFWebViewBrowser_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AFWebViewBrowser_Example.release.xcconfig"; sourceTree = "<group>"; };
-		411C2211B4637712B6CBE3E37636BBF9 /* activityChrome-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome-iPad@2x.png"; sourceTree = "<group>"; };
 		418C9B68C6B12278843AC0BF3B2394DD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41E84CF3CB21CF2D68B45C4A226BFF14 /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		41FDAE1D17370251F0117D7743134947 /* DZNEmptyDataSet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZNEmptyDataSet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -183,11 +169,9 @@
 		4537C08D57C069242EAB8CDA0FB25A3C /* AFWebViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewController.m; sourceTree = "<group>"; };
 		47DE78F316D127BD83C073871B5135CF /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		48BB3A62731B201990E61EB2BE0DA44C /* AFWebViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewController.h; sourceTree = "<group>"; };
-		4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "backItemImage@2x.png"; sourceTree = "<group>"; };
 		4FB3E71CC30EB63643BD6B6BB182FE75 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		51889D6F4809955A61BA7479584432AE /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		57BEE4E5E97DBC10CB7E17058FAD4FE4 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari@2x.png"; sourceTree = "<group>"; };
 		6026B670D980B358E98FD698D032C569 /* Pods-AFWebViewBrowser_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Tests-resources.sh"; sourceTree = "<group>"; };
 		60EB3C809CF12F37D97C938B406DC2DE /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		69656060B344361B0A56C41FA4BC7E32 /* MASUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASUtilities.h; path = Masonry/MASUtilities.h; sourceTree = "<group>"; };
@@ -196,7 +180,6 @@
 		6CE328DDBDC9AF2DE18FEC1C88AEEF3E /* Pods_AFWebViewBrowser_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AFWebViewBrowser_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EE687F3F39095912FBBC402BA2B7786 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FA13C7D623766740F62618E3D6217A7 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
-		73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "toolBar_back@2x.png"; sourceTree = "<group>"; };
 		748C8355E4747B38723F92703673407B /* Pods-AFWebViewBrowser_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Example-frameworks.sh"; sourceTree = "<group>"; };
 		75701E2D6B5F89F224AD11F3198F3D0C /* AFWebViewInteractiveHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewInteractiveHandler.m; sourceTree = "<group>"; };
 		79E12475FF224D207F8D2F0FE73BD0BE /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
@@ -217,12 +200,10 @@
 		99546A2DC7B871377F240546D2B3AE53 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		999A22763AC285CB04A223A484AAA723 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		9C8586A1D9DFFD0800F3AFDAC6BED518 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = toolBar_forward.png; sourceTree = "<group>"; };
 		A0FA26C493F46482790D76FA3763F957 /* AFWebViewControllerModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewControllerModel.h; sourceTree = "<group>"; };
 		A1319F21F9B072BFBCB6B0917BB771A6 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		A281AA4FBAE162FA53C4978B2A85647A /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4394D78411DA897ACBE400C5DF46967 /* AFWebViewJavascriptBridge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = AFWebViewJavascriptBridge.m; sourceTree = "<group>"; };
-		A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "toolBar_forward@2x.png"; sourceTree = "<group>"; };
 		A5BA355667E50B8DA1C941A7A3EC42B2 /* DZNEmptyDataSet.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DZNEmptyDataSet.xcconfig; sourceTree = "<group>"; };
 		A7F46BBA529D5056DAF5C26EA003D4EC /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
 		A997FE5913795A568F724FE93CFB7FBA /* UINavigationController+AFWebViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+AFWebViewController.m"; sourceTree = "<group>"; };
@@ -243,23 +224,18 @@
 		D211C20B8D12306B0BE39A6AA61D72CA /* DZNEmptyDataSet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZNEmptyDataSet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2CD98B710915AB6E30843A0BDD4A1D0 /* Pods-AFWebViewBrowser_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AFWebViewBrowser_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		D442014DD7ED72F21287952C9C3C4A84 /* DZNEmptyDataSet-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DZNEmptyDataSet-umbrella.h"; sourceTree = "<group>"; };
-		D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activityChrome@2x.png"; sourceTree = "<group>"; };
 		D97FB86A9876B439BE46CD2EC47D6AE8 /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
-		DB2AD60EBF6499F84DD9FEC1A11DA742 /* activitySafari-iPad@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari-iPad@2x.png"; sourceTree = "<group>"; };
 		DC2BE5F2C71231E69EB8C4071A495821 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		DCFD136584DC4E7291FB559F24E9AAE4 /* AFWebViewJavascriptBridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AFWebViewJavascriptBridge.h; sourceTree = "<group>"; };
 		DD5FA85A1C547CDB6F0FA929C26A5B47 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		DDC9989F3A5315ED299F486BAD685059 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		DE428F9DD2DC3B5D424565AAE9116FFF /* Pods-AFWebViewBrowser_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AFWebViewBrowser_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DF6E10F54ADD7C6C6524FECD8CA9B29B /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
-		E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "activitySafari-iPad.png"; sourceTree = "<group>"; };
 		E29538C43BE4A92AD5BBF0913F43E037 /* DZNEmptyDataSet.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DZNEmptyDataSet.modulemap; sourceTree = "<group>"; };
 		E771778106840D3CD4703F1C320DF678 /* Pods-AFWebViewBrowser_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-AFWebViewBrowser_Example.modulemap"; sourceTree = "<group>"; };
-		E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "backItemImage_hl@2x.png"; sourceTree = "<group>"; };
 		E9C76EF8B21FB4C57981CAE6C2122C3C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EAA5D512AEB51C802E7845E4E223BAC0 /* AFWebViewBrowser-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFWebViewBrowser-prefix.pch"; sourceTree = "<group>"; };
 		EBE3C8C865BD8DC8833E4ED5501873EE /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = toolBar_back.png; sourceTree = "<group>"; };
 		EEA0A4C1B751531D9DA151CE439A040C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		F3B99FBDC91C84BE8969BC93C101F2A4 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7EFEB5F82AC629494336922C3EFC28D /* Pods-AFWebViewBrowser_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AFWebViewBrowser_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -349,25 +325,6 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		2D1A2B1D5D3DB07AADFBF75FB624CD03 /* AFWebViewBrowser.bundle */ = {
-			isa = PBXGroup;
-			children = (
-				385D4964100D920C2A5AB8CDBEBBF8F3 /* activityChrome-iPad.png */,
-				411C2211B4637712B6CBE3E37636BBF9 /* activityChrome-iPad@2x.png */,
-				D5700CF6133FA154E42989058100F78B /* activityChrome@2x.png */,
-				E23B9A80EF9D4881447C7988B2417DBE /* activitySafari-iPad.png */,
-				DB2AD60EBF6499F84DD9FEC1A11DA742 /* activitySafari-iPad@2x.png */,
-				5DB2B4383CCB29D563977C0C12088DA0 /* activitySafari@2x.png */,
-				4D2A0FCF4A2205764C03BE9E4BDCD04E /* backItemImage@2x.png */,
-				E9042ADADB28BC1E9E187FF6FA6DBA58 /* backItemImage_hl@2x.png */,
-				EDB2733AA97DF992CD60E6A989D68272 /* toolBar_back.png */,
-				73247CCF6B3DA53944477F47B2EB5F50 /* toolBar_back@2x.png */,
-				9F8D4E597D09490F2C3E866A51CE45DC /* toolBar_forward.png */,
-				A571EB9A3558573C4ED7AE99E9D81F96 /* toolBar_forward@2x.png */,
-			);
-			path = AFWebViewBrowser.bundle;
-			sourceTree = "<group>";
-		};
 		45500D7883D9C00ADDE8A298632EA2B7 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -415,7 +372,6 @@
 				FA7E558F7F83E5319259440570E60624 /* AFWebViewKitConstaints.h */,
 				C6DAA3C5833A9B1845CB97DB6785C166 /* UINavigationController+AFWebViewController.h */,
 				A997FE5913795A568F724FE93CFB7FBA /* UINavigationController+AFWebViewController.m */,
-				2D1A2B1D5D3DB07AADFBF75FB624CD03 /* AFWebViewBrowser.bundle */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -917,23 +873,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AE79DE29760A4E0B035EA243B48393C /* activityChrome-iPad.png in Sources */,
-				61E03FBEC40473DBADF0B3F55F00C7EE /* activityChrome-iPad@2x.png in Sources */,
-				32ADA4E3807CDF529CC04423922AEC44 /* activityChrome@2x.png in Sources */,
-				12E53973948192F806C5DA74A6294DAB /* activitySafari-iPad.png in Sources */,
-				047366DF9B7CBD9EC264AD4159F0C960 /* activitySafari-iPad@2x.png in Sources */,
-				BD816A78521DD3BB19CBD2415CDB2E3D /* activitySafari@2x.png in Sources */,
 				1A7E017B36F98089DFF54C5120341DEB /* AFWebViewBrowser-dummy.m in Sources */,
 				07E908BDBD66FEC450A328D3BF01125E /* AFWebViewController.m in Sources */,
 				0FBA11426BA530A6213D63572415BD22 /* AFWebViewControllerModel.m in Sources */,
 				73649F26368B0281055C860488C51B31 /* AFWebViewInteractiveHandler.m in Sources */,
 				1BFDFC22433284C03AB73F0FF124EDBB /* AFWebViewJavascriptBridge.m in Sources */,
-				DF31C8B80718488E1E38EC21E6EDF14B /* backItemImage@2x.png in Sources */,
-				6A191F784CA7D11154718DD6B8C613C3 /* backItemImage_hl@2x.png in Sources */,
-				494F5FDA8C2D9E683410A551F00A5AD3 /* toolBar_back.png in Sources */,
-				A1358F1991BF0F7C34A8AEA1881529A4 /* toolBar_back@2x.png in Sources */,
-				B8CD107FD8BDCEC3CCD66E5DF1497A66 /* toolBar_forward.png in Sources */,
-				1AF24225CBEA78A29479BB6709BFB2FE /* toolBar_forward@2x.png in Sources */,
 				F27B0FB9036FF76A0A250E17A5904B08 /* UINavigationController+AFWebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

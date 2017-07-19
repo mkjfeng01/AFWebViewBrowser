@@ -8,6 +8,6 @@
 
 @import UIKit;
 
-@interface AFViewController : UIViewController
+@interface AFViewController : UITableViewController
 
 @end
