@@ -22,6 +22,12 @@
 #import "AFWebViewControllerModel.h"
 #import "UINavigationController+AFWebViewController.h"
 #import "AFWebViewJavascriptBridge.h"
+
+#if __has_include(<AFPopUpMenu/AFPopUpMenu.h>)
+#import <AFPopUpMenu/AFPopUpMenu.h>
+#else
+#import "AFPopUpMenu.h"
+#endif
 #if __has_include(<Masonry/Masonry.h>)
     #import <Masonry/Masonry.h>
 #else
@@ -278,12 +284,16 @@
 }
 
 - (void)tabbarMoreBarButtonItemPressed {
-//    [AFWebViewShareExtensionHandler WebViewShareExtensionWithHandler:^(AFActionSheetItem *sheetItem) {
-//        dispatch_async(dispatch_get_main_queue(), ^{
-//            // do Somthing...
-//            AFLog(@"🔴类名与方法名：%@（在第%@行），描述：%@", @(__PRETTY_FUNCTION__), @(__LINE__), sheetItem.title);
-//        });
-//    }];
+    
+    
+    [AFPopUpMenu showWithTitle:@"请选择要进行的操作"
+                     menuArray:@[@[@"搜索", @"复制链接", @"刷新"]]
+                    imageArray:@[@[[self imageInBundleForImageName:@"Action_SearchInPage@2x"],
+                                   [self imageInBundleForImageName:@"Action_Copy@2x"],
+                                   [self imageInBundleForImageName:@"Action_Refresh@2x"]]]
+                     doneBlock:^(NSIndexPath * _Nonnull selectedIndexPath) {
+        
+    } dismissBlock:NULL];
 }
 
 #pragma mark - 

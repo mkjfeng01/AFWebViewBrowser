@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AFPopUpMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>AFWebViewBrowser.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,12 +42,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2FCA1176C645E2C8F3457613257355A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>34CD2E3428AB802BACA62286FF5074B1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>417E4CBD2853EF49BAD555767576B2B1</key>
+		<key>3B2236471D448D026DE0F13F60A2AC28</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -52,17 +62,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>993AB6B817C2A201BA2BAB4D16CC6EEF</key>
+		<key>7CE35E5DA17F72A5FDA8B20A00FC31E6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A36175B9DD2A15A89AB949CD775F0959</key>
+		<key>896B0956D7FEC5746B548D989DE5CC91</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F9616D83CA26F970DF70242C3277019E</key>
+		<key>E70775DFBD9C63B80018491CBFD94A10</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -42,4 +42,5 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'DZNEmptyDataSet'
   s.dependency 'Masonry'
+  s.dependency 'AFPopUpMenu'
 end

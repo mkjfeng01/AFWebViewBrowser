@@ -9,6 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![k4AaV.png](http://storage1.imgchr.com/k4AaV.png)
+![k4E5T.png](http://storage1.imgchr.com/k4E5T.png)
+![k4ZPU.png](http://storage1.imgchr.com/k4ZPU.png)
+![k4eGF.png](http://storage1.imgchr.com/k4eGF.png)
+
 ## Requirements
 
 ## Installation
@@ -22,7 +27,7 @@ pod "AFWebViewBrowser"
 
 ## Author
 
-mkjfeng01, mkjfeng01@gmail.com
+啊啊啊啊锋, mkjfeng01@gmail.com
 
 ## License
 

@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '896B0956D7FEC5746B548D989DE5CC91'
-               BlueprintName = 'AFWebViewBrowser'
+               BlueprintIdentifier = 'E70775DFBD9C63B80018491CBFD94A10'
+               BlueprintName = 'AFPopUpMenu'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'AFWebViewBrowser.framework'>
+               BuildableName = 'AFPopUpMenu.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
